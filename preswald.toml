@@ -1,0 +1,20 @@
+[project]
+title = "Admission Predict Project"
+version = "0.1.0"
+port = 8501
+slug = "admission-project"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "Admission Predict Project"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#0000FF"
+
+[data.admissions]
+type = "csv"
+path = "data/Admission_Predict.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
