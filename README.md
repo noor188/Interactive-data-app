@@ -5,6 +5,12 @@ This data app assists in evaluating students' chances of gaining admission to an
 
 View the app: <a href="https://github.com/noor188/Graduate-Admission-Prediction">Preswald data app</a>
 
+---
+
+## Business Outcome
+
+Identifying the metrics that influence the likelihood of being accepted
+
 --- 
 
 ## Dashboard Overview
